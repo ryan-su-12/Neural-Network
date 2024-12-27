@@ -1,2 +1,2 @@
 # Neural-Network
-Making my on Neural Network (Transformer)
+Making my own Neural Network (Transformer)
